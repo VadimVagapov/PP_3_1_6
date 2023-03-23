@@ -1,5 +1,0 @@
-Insert into users (name, age, email) values ("Vadim", 25, "midav1930@mail.ru");
-SELECT * FROM users;
-SELECT name, age FROM users WHERE id = 2;
-UPDATE users SET name = "Maks", age = 20 WHERE id = 2;
-DELETE FROM users;
